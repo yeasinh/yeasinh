@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yeasin
 - 👀 I’m interested in software testing and quality assurance
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning JUnit and Selenium
 - 💞️ I’m not looking to collaborate on anything right now
-- 📫 Reach me @yeasinhossain@iut-dhaka.edu
+- 📫 Reach me @ysnhossain.107@gmail.com
 
 <!---
 yeasinh/yeasinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yeasin
-- 👀 I’m interested in application development
+- 👀 I’m interested in software testing and quality assurance
 - 🌱 I’m currently learning Android
 - 💞️ I’m not looking to collaborate on anything right now
 - 📫 Reach me @yeasinhossain@iut-dhaka.edu

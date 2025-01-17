@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yeasin
-- 👀 I’m interested in software testing and quality assurance
-- 🌱 I’m currently learning Appium
+- 👀 I’m interested in software development
+- 🌱 I’m currently working with React and Next.js
 - 💞️ I’m not looking for work right now
 - 📫 Reach me @yeasinhossain.246@gmail.com
 

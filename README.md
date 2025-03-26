@@ -5,9 +5,9 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Frontend:** React, Redux Toolkit, Redux-Saga, Redux-Persist, Redux-Logger
+- **Frontend:** React, Axios, Redux Toolkit, Redux-Saga
 - **Backend (Familiar):** NestJS, GraphQL, Apollo, Prisma, PostgreSQL
-- **Other Tools:** Git, GitHub, GitLab, Jira, Axios
+- **Other Tools:** Git, GitHub, GitLab, Jira
 
 ### 🌱 Currently Learning
 - Optimizing Next.js applications for better performance

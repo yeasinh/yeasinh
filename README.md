@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Frontend:** Next.js, React, Redux Toolkit, Redux-Saga, Redux-Persist, Redux-Logger
+- **Frontend:** React, Redux Toolkit, Redux-Saga, Redux-Persist, Redux-Logger
 - **Backend (Familiar):** NestJS, GraphQL, Apollo, Prisma, PostgreSQL
 - **Other Tools:** Git, GitHub, GitLab, Jira, Axios
 

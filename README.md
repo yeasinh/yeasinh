@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Yeasin
-- 👀 I’m interested in software development
-- 🌱 I’m currently working with React and Next.js
-- 💞️ I’m not looking for work right now
-- 📫 Reach me @yeasinhossain.246@gmail.com
+# Hi there! 👋 I'm Yeasin
 
-<!---
-yeasinh/yeasinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Software Engineer | Frontend Developer**
+
+---
+
+### 🛠 Tech Stack & Tools
+- **Frontend:** Next.js, React, Redux Toolkit, Redux-Saga, Redux-Persist, Redux-Logger
+- **Backend (Familiar):** NestJS, GraphQL, Apollo, Prisma, PostgreSQL
+- **Other Tools:** Git, GitHub, GitLab, Jira, Axios
+
+### 🌱 Currently Learning
+- Optimizing Next.js applications for better performance
+- Exploring advanced state management patterns
+
+### 🔍 About Me
+- 👀 Passionate about building interactive web applications
+- 💡 Always eager to learn and improve my development skills
+- 🎯 Focused on writing clean, maintainable, and efficient code
+
+### 📬 Get in Touch
+- Email: [yeasinhossain.246@gmail.com](mailto:yeasinhossain.246@gmail.com)
+- GitHub: [yeasinh](https://github.com/yeasinh)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Let's build something amazing! 🚀
